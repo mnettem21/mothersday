@@ -28,9 +28,13 @@ SKIP_FILENAMES = frozenset({"kiss.png"})
 # Use this for known memories where EXIF/mtime is wrong or missing.
 DATE_OVERRIDES = {
     "Asset0026 (5).jpeg": datetime(2022, 5, 6, 12, 0, 0),
+    "IMG_0276.jpeg": datetime(2007, 6, 22, 12, 0, 0),
     # User-confirmed old photos that imported with modern mtime.
     "CA7F59B0-5C93-4510-BD33-5A1E2A56FAE7.jpg": datetime(2004, 5, 2, 11, 31, 0),
     "IMG_1222.JPG": datetime(2004, 5, 2, 12, 0, 0),
+    "IMG_9454.PNG": datetime(2023, 8, 13, 12, 0, 0),
+    "IMG_4201.JPG": datetime(2018, 2, 26, 12, 0, 0),
+    "ed7354e3-b834-4d0a-abac-f2e3e9f36a97.jpg": datetime(2023, 7, 21, 12, 0, 0),
 }
 
 

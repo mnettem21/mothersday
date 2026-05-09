@@ -15,6 +15,11 @@
     "caption": "March 9, 2007"
   },
   {
+    "image": "amma/IMG_0276.jpeg",
+    "taken": "2007-06-22T12:00:00",
+    "caption": "June 22, 2007"
+  },
+  {
     "image": "amma/IMG_2699.JPG",
     "taken": "2008-05-11T13:41:06",
     "caption": "May 11, 2008"
@@ -68,6 +73,11 @@
     "image": "amma/IMG_3894.JPG",
     "taken": "2018-01-01T00:27:21",
     "caption": "January 1, 2018"
+  },
+  {
+    "image": "amma/IMG_4201.JPG",
+    "taken": "2018-02-26T12:00:00",
+    "caption": "February 26, 2018"
   },
   {
     "image": "amma/IMG_2537.jpeg",
@@ -130,6 +140,16 @@
     "caption": "April 2, 2023"
   },
   {
+    "image": "amma/ed7354e3-b834-4d0a-abac-f2e3e9f36a97.jpg",
+    "taken": "2023-07-21T12:00:00",
+    "caption": "July 21, 2023"
+  },
+  {
+    "image": "amma/IMG_9454.PNG",
+    "taken": "2023-08-13T12:00:00",
+    "caption": "August 13, 2023"
+  },
+  {
     "image": "amma/IMG_2525.JPG",
     "taken": "2024-02-03T18:45:25",
     "caption": "February 3, 2024"
@@ -138,11 +158,6 @@
     "image": "amma/IMG_7392.jpeg",
     "taken": "2024-03-11T10:26:10",
     "caption": "March 11, 2024"
-  },
-  {
-    "image": "amma/IMG_0276.jpeg",
-    "taken": "2024-05-12T21:57:28",
-    "caption": "May 12, 2024"
   },
   {
     "image": "amma/IMG_8181.JPG",
@@ -187,21 +202,6 @@
   {
     "image": "amma/fbf7102f-f6f6-4cf3-b558-3aede88d21e5.jpg",
     "taken": "2026-05-08T19:07:32.698328",
-    "caption": "May 8, 2026"
-  },
-  {
-    "image": "amma/ed7354e3-b834-4d0a-abac-f2e3e9f36a97.jpg",
-    "taken": "2026-05-08T19:10:45.882042",
-    "caption": "May 8, 2026"
-  },
-  {
-    "image": "amma/IMG_9454.PNG",
-    "taken": "2026-05-08T19:42:29.204802",
-    "caption": "May 8, 2026"
-  },
-  {
-    "image": "amma/IMG_4201.JPG",
-    "taken": "2026-05-08T20:16:50",
     "caption": "May 8, 2026"
   }
 ]
